@@ -52,8 +52,8 @@ form{
 
 #Search-button:hover{
     background-color: #0056b3;
-    opacity: 0.8;
     fill: #fff;
+    opacity: 0.8;
 }
 
 #search-icon {
